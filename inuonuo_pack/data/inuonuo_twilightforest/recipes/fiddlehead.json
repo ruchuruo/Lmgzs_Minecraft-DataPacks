@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key":
+    {
+      "A":
+      {
+        "item": "minecraft:fern"
+      },
+      "B":
+      {
+        "item": "twilightforest:transformation_powder"
+      }
+    },
+  
+    "pattern":
+    [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+  
+    "result":
+    {
+      "count": 8,
+      "item": "twilightforest:fiddlehead"
+    },
+  
+    "show_notification": true
+  }

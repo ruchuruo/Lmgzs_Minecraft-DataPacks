@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key":
+  {
+    "#":
+    {
+      "tag": "minecraft:stone_crafting_materials"
+    }
+  },
+
+  "pattern":
+  [
+    "##",
+    "##"
+  ],
+
+  "result":
+  {
+    "count": 1,
+    "item": "minecraft:sand"
+  },
+
+  "show_notification": true
+}

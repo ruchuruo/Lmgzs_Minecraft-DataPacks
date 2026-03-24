@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cataclysm:netherite_effigy"
+        },
+        {
+            "item": "cataclysm:netherite_effigy"
+        },
+        {
+            "item": "cataclysm:netherite_effigy"
+        },
+        {
+            "item": "cataclysm:netherite_effigy"
+        },
+        {
+            "item": "cataclysm:netherite_effigy"
+        },
+        {
+            "item": "cataclysm:netherite_effigy"
+        },
+        {
+            "item": "cataclysm:netherite_effigy"
+        },
+        {
+            "item": "cataclysm:netherite_effigy"
+        },
+        {
+            "item": "cataclysm:netherite_effigy"
+        }
+    ],
+    "result": {
+        "item": "minecraft:ancient_debris",
+        "count": 1
+    }
+}

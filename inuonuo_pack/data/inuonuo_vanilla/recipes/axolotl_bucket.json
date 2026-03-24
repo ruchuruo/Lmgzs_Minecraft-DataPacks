@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key":
+    {
+      "#":
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      "X":
+      {
+        "item": "minecraft:water_bucket"
+      }
+    },
+  
+    "pattern":
+    [
+      "#X"
+    ],
+  
+    "result":
+    {
+      "count": 1,
+      "item": "minecraft:axolotl_bucket"
+    },
+  
+    "show_notification": true
+  }

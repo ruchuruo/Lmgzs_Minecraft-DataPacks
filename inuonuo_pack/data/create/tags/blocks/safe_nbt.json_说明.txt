@@ -1,0 +1,11 @@
+
+与其让up撤回稿件不如花点时间找一下问题的产生原因然后尝试修复一下，
+这个bug主要针对服务器影响较大，服主必须有能力修复任何bug而不是掩耳盗铃假装没有。
+这个bug在1.201.-0.5.1.h可复现，
+github上有人提交了issues:https://github.com/Creators-of-Create/Create/issues/6543，
+目前3天前经被标记为已确认。
+根据issues上描述可以找到create:safe_nbt这个tag，
+位置在data/create/tags/blocks/safe_nbt.json，
+将json中'create:clipboard'删除(数据包，kjs都可以)。
+通过这种方法会出现的问题是用蓝图打印的剪贴板破坏后无法掉落，
+但对于服务器来说这种代价可接受。

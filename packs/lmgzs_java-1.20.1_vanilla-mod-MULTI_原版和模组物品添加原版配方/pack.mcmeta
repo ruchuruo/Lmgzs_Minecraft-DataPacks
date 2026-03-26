@@ -1,0 +1,27 @@
+﻿{
+    "pack": {
+        "pack_format": 94,
+        "supported_formats": [
+            15,
+            94
+        ],
+
+        "description":[
+            {
+                "text": "为 原版物品 和 模组物品 添加 原版配方"
+            },
+            "\n",
+            {
+                "text": "模组: [灾变]cataclysm | [农夫乐事]farmersdelight | [暮色森林]twilightforest"
+            },
+            "\n",
+            {
+                "text": "Minecraft Version: 1.20.1 - 1.21.11"
+            },
+            "\n",
+            {
+                "text": "by inuonuo"
+            }
+        ]
+    }
+}

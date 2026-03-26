@@ -1,0 +1,19 @@
+﻿{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": [
+            15,
+            15
+        ],
+
+        "description":[
+            {
+                "text": "模组 机械动力: 剪贴板刷物暂解"
+            },
+            "\n",
+            {
+                "text": "Minecraft Version: 1.20.1"
+            }
+        ]
+    }
+}

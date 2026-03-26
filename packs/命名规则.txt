@@ -1,0 +1,21 @@
+
+{作者}_{游戏平台}-{游戏版本}_{
+                            原版
+                            mod-{模组名字}
+                            mod-{模组名字}-[模组版本]
+                            mod-MULTI
+                            原版-mod
+                            原版-mod-MULTI
+                            }_{功能}_v[数据包版本]
+
+lmgzs_java-1.20.1_vanilla_{功能}
+lmgzs_java-1.20.1_vanilla_{功能}_v1
+lmgzs_java-1.20.1_mod-create_{功能}
+lmgzs_java-1.20.1_mod-create-6.0.4_{功能}
+lmgzs_java-1.20.1_mod-create-6.0.4_{功能}_v1
+lmgzs_java-1.20.1_mod-arsNouveau-4.12.7_{功能}_v1
+
+lmgzs_bedrock-1.21.30.22_vanilla_{功能}
+lmgzs_bedrock-1.21.30.22_mod-{模组名字}_{功能}
+
+

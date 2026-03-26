@@ -1,0 +1,27 @@
+﻿{
+    "pack": {
+        "pack_format": 94,
+        "supported_formats": [
+            12,
+            94
+        ],
+
+        "description":[
+            {
+                "text": "原版 受击后伤害免疫绕过冷却时间"
+            },
+            "\n",
+            {
+                "text": "一秒20下, 受着!"
+            },
+            "\n",
+            {
+                "text": "Minecraft Version: 1.19.4 - 1.21.11"
+            },
+            "\n",
+            {
+                "text": "by inuonuo"
+            }
+        ]
+    }
+}

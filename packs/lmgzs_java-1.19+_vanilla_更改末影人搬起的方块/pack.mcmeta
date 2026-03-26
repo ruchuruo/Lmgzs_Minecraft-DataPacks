@@ -1,0 +1,23 @@
+﻿{
+    "pack": {
+        "pack_format": 94,
+        "supported_formats": [
+            10,
+            94
+        ],
+
+        "description":[
+            {
+                "text": "原版 更改末影人搬起的方块"
+            },
+            "\n",
+            {
+                "text": "只能搬 西瓜 和 南瓜, 当黑奴去吧!"
+            }
+            "\n",
+            {
+                "text": "Minecraft Version: 1.19 - 1.21.11"
+            }
+        ]
+    }
+}

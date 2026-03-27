@@ -1,0 +1,27 @@
+﻿{
+    "pack": {
+        "pack_format": 94,
+        "supported_formats": [
+            15,
+            94
+        ],
+
+        "description":[
+            {
+                "text": "原版 修改矿物生成"
+            },
+            "\n",
+            {
+                "text": "矿物在地表和天上生成"
+            },
+            "\n",
+            {
+                "text": "Minecraft Version: 1.20.1 - 1.21.11"
+            },
+            "\n",
+            {
+                "text": "by inuonuo"
+            }
+        ]
+    }
+}

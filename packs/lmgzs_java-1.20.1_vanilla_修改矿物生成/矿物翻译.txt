@@ -1,0 +1,57 @@
+
+<名字>.json         小型(需要根据实际文件内容"feature" 进行判断)
+<名字>_buried.json  埋藏(需要根据实际文件内容"feature" 进行判断)
+<名字>_large.json   大型(需要根据实际文件内容"feature" 进行判断)
+<名字>_lower.json   下层(需要根据实际文件内容"feature" 进行判断)
+<名字>_upper.json   上层(需要根据实际文件内容"feature" 进行判断)
+
+
+
+<数据包名字>/data/minecraft/worldgen/placed_feature/
+
+矿物*22:
+Name                            中文名字
+----                            --------
+ore_ancient_debris_large.json   远古残骸 大型
+ore_coal_lower.json             煤炭 下层 埋藏
+ore_coal_upper.json             煤炭 上层
+ore_copper.json                 铜 小型
+ore_copper_large.json           铜 大型
+ore_debris_small.json           远古残骸 小型
+ore_diamond.json                钻石 小型
+ore_diamond_buried.json         钻石 埋藏
+ore_diamond_large.json          钻石 大型
+ore_emerald.json                绿宝石
+ore_gold.json                   埋藏
+ore_gold_deltas.json            金 增量 下界
+ore_gold_extra.json             金 额外
+ore_gold_lower.json             金 下层 埋藏
+ore_gold_nether.json            金 下界
+ore_iron_middle.json            铁 中部
+ore_iron_small.json             铁 小型
+ore_iron_upper.json             铁 上层
+ore_lapis.json                  青金石
+ore_lapis_buried.json           青金石 埋藏
+ore_redstone.json               红石
+ore_redstone_lower.json         红石 下层
+
+其他*17:
+Name                            中文名字
+----                            --------
+ore_andesite_lower.json         安山岩 下层
+ore_andesite_upper.json         安山岩 上层
+ore_blackstone.json             黑石
+ore_clay.json                   黏土块
+ore_diorite_lower.json          闪长岩 下层
+ore_diorite_upper.json          闪长岩 上层
+ore_dirt.json                   泥土
+ore_granite_lower.json          花岗岩 下层
+ore_granite_upper.json          花岗岩 上层
+ore_gravel.json                 沙砾
+ore_gravel_nether.json          沙砾 下界
+ore_infested.json               虫蚀石
+ore_magma.json                  岩浆
+ore_quartz_deltas.json          石英 增量
+ore_quartz_nether.json          石英 下界
+ore_soul_sand.json              灵魂沙
+ore_tuff.json                   凝灰岩

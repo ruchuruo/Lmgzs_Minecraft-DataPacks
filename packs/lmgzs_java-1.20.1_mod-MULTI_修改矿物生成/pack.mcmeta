@@ -1,14 +1,14 @@
 ﻿{
     "pack": {
-        "pack_format": 94,
+        "pack_format": 15,
         "supported_formats": [
             15,
-            94
+            15
         ],
 
         "description":[
             {
-                "text": "原版 修改矿物生成"
+                "text": "多个模组 修改矿物生成"
             },
             "\n",
             {
@@ -16,7 +16,7 @@
             },
             "\n",
             {
-                "text": "Minecraft Version: 1.20.1 - 1.21.11"
+                "text": "Minecraft Version: 1.20.1"
             },
             "\n",
             {

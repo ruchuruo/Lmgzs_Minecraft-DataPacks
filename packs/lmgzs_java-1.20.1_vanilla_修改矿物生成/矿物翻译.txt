@@ -22,7 +22,7 @@ ore_diamond.json                钻石 小型
 ore_diamond_buried.json         钻石 埋藏
 ore_diamond_large.json          钻石 大型
 ore_emerald.json                绿宝石
-ore_gold.json                   埋藏
+ore_gold.json                   金 埋藏
 ore_gold_deltas.json            金 增量 下界
 ore_gold_extra.json             金 额外
 ore_gold_lower.json             金 下层 埋藏

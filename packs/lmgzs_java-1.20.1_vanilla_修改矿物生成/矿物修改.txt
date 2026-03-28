@@ -1,0 +1,29 @@
+
+count
+    + 已有数值的基础上进行相加
+    - 已有数值的基础上进行相减
+    * 已有数值的基础上进行相乘
+    / 已有数值的基础上进行相除
+    = 设置数值
+
+    a 添加   `"type": "minecraft:count"` 配置项
+    m 更改为 `"type": "minecraft:count"` 配置项
+
+
+
+count   Name                            中文名字
+-----   ----                            --------
+a =10   ore_ancient_debris_large.json   远古残骸 大型
+a =10   ore_debris_small.json           远古残骸 小型
+
+  *10   ore_diamond.json                钻石 小型
+  *10   ore_diamond_buried.json         钻石 埋藏
+m =10   ore_diamond_large.json          钻石 大型
+
+  *10   ore_lapis.json                  青金石
+  *10   ore_lapis_buried.json           青金石 埋藏
+
+  *10   ore_redstone.json               红石
+  *10   ore_redstone_lower.json         红石 下层
+
+

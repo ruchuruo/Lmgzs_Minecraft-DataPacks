@@ -1,0 +1,22 @@
+
+<名字>.json         小型(需要根据实际文件内容"feature" 进行判断)
+<名字>_buried.json  埋藏(需要根据实际文件内容"feature" 进行判断)
+<名字>_large.json   大型(需要根据实际文件内容"feature" 进行判断)
+<名字>_lower.json   下层(需要根据实际文件内容"feature" 进行判断)
+<名字>_upper.json   上层(需要根据实际文件内容"feature" 进行判断)
+
+
+
+<数据包名字>/data/create/worldgen/placed_feature/
+矿物*1
+Name                            中文名字
+----                            --------
+zinc_ore.json                   锌
+
+其他*2
+Name                            中文名字
+----                            --------
+striated_ores_nether.json       ?
+striated_ores_overworld.json    ?
+
+
